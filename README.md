@@ -1,6 +1,6 @@
 # MakixScheme
 
-##### Color sheme designed by myself, I use with Material Design: Material Ocean Deep.
+##### Color sheme designed by myself for Android Studio.
 
 ## It looks like:
 
@@ -9,5 +9,12 @@
 
 ### Koltin screenshot:
 ![Kotlin screenshot](/img/Kotlin.png)
+
+
+
+## My settings preferences:
+
+* Theme app is Material Design: Ocean Deep
+* Font : Cascadia Code
 
 Enjoy !
